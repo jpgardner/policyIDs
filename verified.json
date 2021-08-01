@@ -39,5 +39,12 @@
         "policies": [
             "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
         ]
+    },
+    {
+        "project": "JPG",
+        "tags": ["JPG"],
+        "policies": [
+            "6ed48fc8bb987ec171a0923942d563db0edff38d12a1da6757bfcd9a"
+        ]
     }
 ]
